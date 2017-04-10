@@ -1,4 +1,6 @@
-This is expository data analysis of Facebook user’s characteristics. 
-# I used R language to create visualization and to do statistical analysis.
 
 
+Characteristics of Facebook users.
+1) Relation  between number of facebook friends and age of facebook users.
+2) Total Facebook friends according to Gender
+3) 
