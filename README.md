@@ -1,7 +1,7 @@
 
 **Objective :**
 
-This is my first data analysis project, I have tried to do some data vizuation, where I used Psudo Facebook's data. 
+This is my first data analysis project, I have tried to do some data visualization, where I used Psudo Facebook's data. 
 
 **Programming Languages Used :**
 
