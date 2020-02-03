@@ -1,23 +1,23 @@
 
-**Objective**
+**Objective :**
 
 This is my first data analysis project, I have tried to do some data vizuation, where I used Psudo Facebook's data. 
 
-**Programming Languages Used: **
+**Programming Languages Used :**
 
 R
 
-**Data source**
+**Data source : **
 
 - Data is psuedo facebook data-Taken from onr of the Udacity's coursework.
 
-**R packages used :**
+**R packages used: **
 
 1) ggplot2
 2) ggthemes
 3) Other basic R packages 
 
-**Results**
+**Results : **
 
 These are some of the graphs from this data analysis:
 
