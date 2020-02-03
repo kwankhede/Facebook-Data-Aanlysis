@@ -7,11 +7,11 @@ This is my first data analysis project, I have tried to do some data vizuation, 
 
 R
 
-**Data source : **
+**Data source :**
 
 - Data is psuedo facebook data-Taken from onr of the Udacity's coursework.
 
-**R packages used: **
+**R packages used:**
 
 1) ggplot2
 2) ggthemes
