@@ -17,7 +17,7 @@ R
 2) ggthemes
 3) Other basic R packages 
 
-**Results : **
+**Results :**
 
 These are some of the graphs from this data analysis:
 
